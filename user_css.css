@@ -1,0 +1,17 @@
+*{
+    font-family: "Arial";
+}
+h2{
+    margin-top: 30px; 
+    font-size: 30px;
+}
+h4{
+    width: auto;
+    float: auto;
+}
+img{
+    float:right;
+}
+#about{
+    font-size : 30px;
+}
